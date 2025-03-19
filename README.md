@@ -26,7 +26,7 @@ MedExtract ICD is an NLP-powered tool that automates medical coding by extractin
 * PyCharm (Latest Version) , Visual Studio Code 
 
 # Flow Diagram
-![op](./-%20visual%20selection.png)
+![op](./flow%20de.png)
 
 # System Architecture
 ![op](./ar%20dia.png)
